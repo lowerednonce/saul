@@ -1,0 +1,32 @@
+# compiled objects
+*.[oa]
+*.obj
+*.so
+*.dll
+
+# build related
+build
+bulld/*
+Makefile
+
+# Microsoft Visual Studio
+x64
+.vs
+windows/saul-windows.sdf
+windows/saul-windows.v12.suo
+windows/saul-demo.vcxproj.filters
+windows/saul-windows.vcxproj.filters
+windows/saul-demo.vcxproj.user
+windows/saul-windows.vcxproj.user
+
+# executables
+*.exe
+*.out
+
+# IDE specific
+.idea
+.vscode
+*.swp
+
+# temporary logfiles
+out.log
